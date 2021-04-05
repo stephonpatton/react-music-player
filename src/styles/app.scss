@@ -3,3 +3,8 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+// SCSS Imports for components
+@import "./player";
+
+@import "./song";

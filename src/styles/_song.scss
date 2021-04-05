@@ -1,0 +1,7 @@
+.song-container {
+  min-height: 60vh;
+  display: flex; //straight line
+  flex-direction: column; //columnizes
+  align-items: center; //puts in center
+  justify-content: center; //spreads out
+}
